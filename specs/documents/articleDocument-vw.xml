@@ -36,7 +36,7 @@
 				<class name="Journal"/>
 			</classes>
 		</primitive>
-		<primitive name="FTDRuleSet">
+		<primitive name="FTDRuleSet" nullable="true">
 			<classes>
 				<class name="FTDRuleSet"/>
 			</classes>
@@ -48,5 +48,9 @@
 		<indexElement pos="2" p="FTD" c="FTD" a="name" />
 		<indexElement pos="3" p="FTD" c="FTD" a="checksum" />
 		<indexElement pos="4" p="FTDRuleSet" c="FTDRuleSet" a="rsName" />
+		<indexElement pos="5" p="FTD" c="FTD" a="pdfLoaded" />
+		<indexElement pos="6" p="FTD" c="FTD" a="pmcLoaded" />
+		<indexElement pos="7" p="FTD" c="FTD" a="swfLoaded" />
+		<indexElement pos="8" p="FTD" c="FTD" a="xmlLoaded" />
 	</indexElements>
 </view>
