@@ -1,4 +1,4 @@
-bmkegId	journalTitle	nlmId	abbr	ISSN
+vpdmfId	journalTitle	nlmId	abbr	ISSN
 1	AADE editors' journal	7708172	AADE Ed J	0160-6999
 2	AANA journal	0431420	AANA J	0094-6354
 3	AARN news letter	1251052	AARN News Lett	0001-0197
@@ -9349,7 +9349,7 @@ bmkegId	journalTitle	nlmId	abbr	ISSN
 9348	Hospital case management : the monthly update on hospital-based care planning and critical paths	9603097	Hosp Case Manag	1087-0652
 9349	HMO	9506687	HMO	1091-0506
 9350	Healthplan	9707233	Healthplan	1087-3678
-9351	Healthcare systems strategy report	9442118	Healthc Syst Strategy Rep	XXXX-XXXX
+9351	Healthcare systems strategy report	9442118	Healthc Syst Strategy Rep	2374-3077
 9352	The healthcare strategist	9891985	Healthc Strateg	1097-0819
 9353	Healthcare foodservice	9888383	Healthc Foodserv	XXXX-XXXX
 9354	Healthcare facilities management series	9716571	Healthc Facil Manag Ser	XXXX-XXXX
@@ -14827,7 +14827,7 @@ bmkegId	journalTitle	nlmId	abbr	ISSN
 14826	Clinical breast cancer	100898731	Clin. Breast Cancer	1526-8209
 14827	The aging male : the official journal of the International Society for the Study of the Aging Male	9808210	Aging Male	1368-5538
 14828	Current neurology and neuroscience reports	100931790	Curr Neurol Neurosci Rep	1528-4042
-14829	The lancet oncology	100957246	Lancet Oncol.	1470-2045
+14829	The Lancet. Oncology	100957246	Lancet Oncol.	1470-2045
 14830	The journal of mental health policy and economics	9815374	J Ment Health Policy Econ	1091-4358
 14831	Chemical record (New York, N.Y.)	101085550	Chem Rec	1527-8999
 14832	Current molecular medicine	101093076	Curr. Mol. Med.	1566-5240
@@ -18545,7 +18545,7 @@ bmkegId	journalTitle	nlmId	abbr	ISSN
 18544	Acta medica	14530160R	Acta Medica Cordoba	0515-2917
 18545	Buletin stiintific. Sectiunea de stiinte medicale. Academia Republicii Populare Romine	14490480R	Bul Stiint Sect Stiint Medicale Acad Republicii Pop Romane	XXXX-XXXX
 18546	AMIF	14470210R	Amif	XXXX-XXXX
-18547	A.M.A. American journal of diseases of children	14470010R	AMA Am J Dis Child	0096-8994
+18547	A.M.A. American journal of diseases of children	14470010R	AMA Am J Dis Child	2374-2941
 18548	A.M.A. archives of dermatology and syphilology	14470040R	AMA Arch Derm Syphilol	0096-5979
 18549	A.M.A. archives of industrial health	14470090R	AMA Arch Ind Health	XXXX-XXXX
 18550	A.M.A. archives of neurology and psychiatry	14470130R	AMA Arch Neurol Psychiatry	0096-6886
@@ -28234,7 +28234,7 @@ bmkegId	journalTitle	nlmId	abbr	ISSN
 28233	Biodiversity data journal	101619899	Biodivers Data J	XXXX-XXXX
 28234	Colorectal cancer	101579928	Colorectal Cancer	1758-194X
 28235	The journal of the American College of Clinical Wound Specialists	101620247	J Am Coll Clin Wound Spec	XXXX-XXXX
-28236	Science and technology of advanced materials	101614420	Sci Technol Adv Mater	1468-6996
+28236	Science and technology of advanced materials	101614420	Sci Technol Adv Mater	XXXX-XXXX
 28237	Acta crystallographica. Section A, Foundations and advances	101620182	Acta Crystallogr A Found Adv	XXXX-XXXX
 28238	Izvestiia. Bulletin. Bulgarska akademiia na naukite. Institut po biologiia "Metodii Popov"	15751020R	Izv Bulg Akad Naukite	XXXX-XXXX
 28239	Annals of global health	101620864	Ann Glob Health	XXXX-XXXX
@@ -28787,41 +28787,45 @@ bmkegId	journalTitle	nlmId	abbr	ISSN
 28786	Trudy Russkogo entomologiceskogo obsestva	101634618	Tr Russ Entomol Obs (2000)	1605-7678
 28787	The Indian journal of horticulture / issued by the Horticultural Society of India	101634806	Indian J Hortic	0972-8538
 28788	Arthropoda selecta	101634820	Arthropoda Sel	0136-006X
-28789	Genomics data	101634120	Genom Data	XXXX-XXXX
-28790	Journal of anthropological archaeology	101634454	J Anthropol Archaeol	0278-4165
-28791	Aqua planta	101634967	Aqua Planta	0176-2273
-28792	Advances in animal and veterinary sciences	101634991	Adv Anim Vet Sci	2309-3331
-28793	International journal of scientific research (Ahmedabad, India)	101635240	Int J Sci Res (Ahmedabad)	2277-8179
-28794	Applied thermal engineering	101635090	Appl Therm Eng	1359-4311
-28795	Clinical microbiology (Los Angeles, Calif.)	101635380	Clin Microbiol	XXXX-XXXX
-28796	Subjectivity	101635391	Subjectivity	1755-6341
-28797	Human service organizations, management, leadership & governance	101634959	Hum Serv Organ Manag Leadersh Gov	2330-3131
-28798	Advances in neuroscience (Hindawi)	101635006	Adv Neurosci (Hindawi)	2356-6787
-28799	Medical archives (Sarajevo, Bosnia and Herzegovina)	101635337	Med Arch	0350-199X
-28800	Therya	101635604	Therya	XXXX-XXXX
-28801	Omphalina : newsletter of Foray Newfoundland and Labrador	101635615	Omphalina	XXXX-XXXX
-28802	Trends in hearing	101635698	Trends Hear	XXXX-XXXX
-28803	Journal of sport and health science	101606001	J Sport Health Sci	2095-2546
-28804	American journal of clinical and experimental urology	101634566	Am J Clin Exp Urol	XXXX-XXXX
-28805	Journal of methods and measurement in the social sciences	101634613	J Methods Meas Soc Sci	XXXX-XXXX
-28806	International journal of pharmacy and biological sciences	101635695	Int J Pharm Biol Sci	XXXX-XXXX
-28807	Applied economic perspectives and policy	101635420	Appl Econ Perspect Policy	2040-5790
-28808	Hidrobiologica : [revista del Departamento de Hidrobiologia]	101635897	Hidrobiologica	0188-8897
-28809	Universitas scientiarum	101273041	Univ Sci (Bogota)	0122-7483
-28810	Child & family social work	100894081	Child Fam Soc Work	1356-7500
-28811	Scandinavian journal of pain	101520867	Scand J Pain	1877-8860
-28812	Frontiers in Marine Science	101636280	Front Mar Sci	XXXX-XXXX
-28813	Medical instrumentation (Luton, England)	101636041	Med Instrum (Luton)	XXXX-XXXX
-28814	Pain and therapy	101634491	Pain Ther	2193-8237
-28815	Infectious diseases and therapy	101634499	Infect Dis Ther	2193-8229
-28816	Beifang yuanyi	101636842	Beifang Yuanyi	1001-0009
-28817	Catalysis science & technology	101636664	Catal Sci Technol	2044-4753
-28818	Clean : soil, air, water	101637006	Clean (Weinh)	1863-0650
-28819	Journal of plant protection research	101637168	J Plant Prot Res	1427-4345
-28820	Icelandic agricultural sciences	101637441	Icel Agric Sci	1670-567X
-28821	Turkish journal of agriculture & forestry = Turk tarim ve ormancilik dergisi	9888662	Turk J Agric For	1300-011X
-28822	Fu jian shui chan = Fujian Fisheries / Fu jian sheng shui chan xue hui, fu jian sheng shui chan yan jiu suo	101637742	Fu Jian Shui Chan	1006-5601
-28823	Journal of applied & environmental microbiology	101638120	J Appl Environ Microbiol	2373-6747
-28824	The Lancet. Psychiatry	101638123	Lancet Psychiatry	2215-0374
-28825	Advances in Entomology (Irvine, Calif.)	101638528	Adv Entomol	2331-1991
-28826	Pharmaceutical crops	101638538	Pharm Crop	XXXX-XXXX
+28789	Journal of pharmacovigilance	101634347	J Pharmacovigil	XXXX-XXXX
+28790	Genomics data	101634120	Genom Data	XXXX-XXXX
+28791	Journal of anthropological archaeology	101634454	J Anthropol Archaeol	0278-4165
+28792	Aqua planta	101634967	Aqua Planta	0176-2273
+28793	Advances in animal and veterinary sciences	101634991	Adv Anim Vet Sci	2309-3331
+28794	International journal of scientific research (Ahmedabad, India)	101635240	Int J Sci Res (Ahmedabad)	2277-8179
+28795	Information and software technology	9886168	Inf Softw Technol	0950-5849
+28796	Applied thermal engineering	101635090	Appl Therm Eng	1359-4311
+28797	Clinical microbiology (Los Angeles, Calif.)	101635380	Clin Microbiol	XXXX-XXXX
+28798	Subjectivity	101635391	Subjectivity	1755-6341
+28799	Human service organizations, management, leadership & governance	101634959	Hum Serv Organ Manag Leadersh Gov	2330-3131
+28800	Advances in neuroscience (Hindawi)	101635006	Adv Neurosci (Hindawi)	2356-6787
+28801	Medical archives (Sarajevo, Bosnia and Herzegovina)	101635337	Med Arch	0350-199X
+28802	Therya	101635604	Therya	XXXX-XXXX
+28803	Omphalina : newsletter of Foray Newfoundland and Labrador	101635615	Omphalina	XXXX-XXXX
+28804	Trends in hearing	101635698	Trends Hear	XXXX-XXXX
+28805	Journal of sport and health science	101606001	J Sport Health Sci	2095-2546
+28806	American journal of clinical and experimental urology	101634566	Am J Clin Exp Urol	XXXX-XXXX
+28807	Journal of methods and measurement in the social sciences	101634613	J Methods Meas Soc Sci	XXXX-XXXX
+28808	International journal of pharmacy and biological sciences	101635695	Int J Pharm Biol Sci	XXXX-XXXX
+28809	Applied economic perspectives and policy	101635420	Appl Econ Perspect Policy	2040-5790
+28810	Hidrobiologica : [revista del Departamento de Hidrobiologia]	101635897	Hidrobiologica	0188-8897
+28811	Animals : an open access journal from MDPI	101635614	Animals (Basel)	XXXX-XXXX
+28812	Universitas scientiarum	101273041	Univ Sci (Bogota)	0122-7483
+28813	Child & family social work	100894081	Child Fam Soc Work	1356-7500
+28814	Scandinavian journal of pain	101520867	Scand J Pain	1877-8860
+28815	Frontiers in Marine Science	101636280	Front Mar Sci	XXXX-XXXX
+28816	Medical instrumentation (Luton, England)	101636041	Med Instrum (Luton)	XXXX-XXXX
+28817	Pain and therapy	101634491	Pain Ther	2193-8237
+28818	Infectious diseases and therapy	101634499	Infect Dis Ther	2193-8229
+28819	Beifang yuanyi	101636842	Beifang Yuanyi	1001-0009
+28820	Catalysis science & technology	101636664	Catal Sci Technol	2044-4753
+28821	Oncoscience	101636666	Oncoscience	XXXX-XXXX
+28822	Clean : soil, air, water	101637006	Clean (Weinh)	1863-0650
+28823	Journal of plant protection research	101637168	J Plant Prot Res	1427-4345
+28824	Icelandic agricultural sciences	101637441	Icel Agric Sci	1670-567X
+28825	Turkish journal of agriculture & forestry = Turk tarim ve ormancilik dergisi	9888662	Turk J Agric For	1300-011X
+28826	Fu jian shui chan = Fujian Fisheries / Fu jian sheng shui chan xue hui, fu jian sheng shui chan yan jiu suo	101637742	Fu Jian Shui Chan	1006-5601
+28827	Journal of applied & environmental microbiology	101638120	J Appl Environ Microbiol	2373-6747
+28828	The Lancet. Psychiatry	101638123	Lancet Psychiatry	2215-0374
+28829	Advances in Entomology (Irvine, Calif.)	101638528	Adv Entomol	2331-1991
+28830	Pharmaceutical crops	101638538	Pharm Crop	XXXX-XXXX

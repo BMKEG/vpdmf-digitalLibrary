@@ -52,6 +52,6 @@
 		<indexElement pos="5" p="LiteratureCitation" c="ArticleCitation" a="volume" />
 		<indexElement pos="6" p="LiteratureCitation" c="LiteratureCitation" a="pages" />
 		<indexElement pos="7" p="LiteratureCitation" c="ArticleCitation" a="pmid" uniqueKey="true"/>
-		<indexElement pos="8" p="ID" c="ID" a="idType"/>
+		<indexElement pos="8" p="ID" c="ID" a="idValue"/>
 	</indexElements>
 </view>
