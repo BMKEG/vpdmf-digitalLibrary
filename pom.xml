@@ -17,6 +17,7 @@
 		<vpdmf.model.type>MagicDraw</vpdmf.model.type>
 		<vpdmf.model.path>vpdmf-digitalLibrary.xml</vpdmf.model.path>
 		<vpdmf.viewsPath>specs</vpdmf.viewsPath>
+		<vpdmf.model.url>http://bmkeg.isi.edu/digitalLibrary</vpdmf.model.url>
 		<vpdmf.uimaPkgPattern>.model.</vpdmf.uimaPkgPattern>
     	<vpdmf.data.path>sheets</vpdmf.data.path>
     	<vpdmf.data.type>txt</vpdmf.data.type>
