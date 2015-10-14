@@ -25,7 +25,6 @@
 		<vpdmf.nestedModels>${basedir}/../vpdmf-people/ ${basedir}/../vpdmf-terminology/ ${basedir}/../vpdmf-ftd/</vpdmf.nestedModels>  	
  	</properties>
   
-  
   	<build>
  		<plugins>
  		
