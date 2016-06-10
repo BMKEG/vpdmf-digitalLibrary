@@ -3,7 +3,6 @@
 	<primitives>
 		<primitive name="LiteratureCitation">
 			<classes>			
-				<class name="ViewTable"/>
 				<class name="LiteratureCitation"/>
 				<class name="ArticleCitation" />
 			</classes>
