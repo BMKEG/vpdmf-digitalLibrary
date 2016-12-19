@@ -8,10 +8,10 @@
 			<pvLinks>
 				<pvLink paged="true" 
 						c1="Corpus" role="resources" 
-						pv2="LiteratureCitationLU" c2="LiteratureCitation"/>
+						pv2="LiteratureCitation" c2="LiteratureCitation"/>
 			</pvLinks>
 		</primitive>
-		<primitive editable="0" nullable="true" lookupView="LiteratureCitationLU"/>
+		<primitive editable="0" nullable="true" lookupView="LiteratureCitation"/>
 	</primitives>
 	<vpdmfLabel format="$1$" />
 	<indexElements>

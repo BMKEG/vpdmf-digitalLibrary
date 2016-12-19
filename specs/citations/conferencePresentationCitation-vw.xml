@@ -12,7 +12,7 @@
 				<pvLink c1="LiteratureCitation" role="ids" pv2="ID" c2="ID"/>
 				<pvLink c1="LiteratureCitation" role="keywordList" pv2="Keyword" c2="Keyword"/>
 				<pvLink c1="LiteratureCitation" role="fullTextUrl" pv2="URL" c2="URL"/>
-				<pvLink c1="ConferencePresentationCitation" role="proceedings" pv2="ConferenceProceedingsCitationLU" c2="ConferenceProceedingsCitation"/>
+				<pvLink c1="ConferencePresentationCitation" role="proceedings" pv2="ConferenceProceedingsCitation" c2="ConferenceProceedingsCitation"/>
 			</pvLinks>
 		</primitive>
 		<primitive name="Corpus" nullable="true">
@@ -31,7 +31,7 @@
 			</classes>
 		</primitive>
 		<primitive lookupView="Author"/>
-		<primitive lookupView="ConferenceProceedingsCitationLU" editable="false"/>
+		<primitive lookupView="ConferenceProceedingsCitation" editable="false"/>
 		<primitive name="Keyword"  nullable="true">
 			<classes>
 				<class name="Keyword"/>
@@ -40,7 +40,7 @@
 	</primitives>
 	 	<viewLinks>
 		<viewLink name="ConferencePresentationCitation" setRelation="Superset"
-				 v1="ConferencePresentationCitation" p1="ConferenceProceedingsCitationLU" c1="ConferenceProceedingsCitation"
+				 v1="ConferencePresentationCitation" p1="ConferenceProceedingsCitation" c1="ConferenceProceedingsCitation"
 				 v2="ConferenceProceedingsCitation" p2="ConferenceProceedingsCitation" c2="ConferenceProceedingsCitation"/>
 	</viewLinks> 
 	<vpdmfLabel format="@1@ ($2$), `$3$` $4$ :$5$" />
@@ -48,7 +48,7 @@
 		<indexElement pos="1" p="Author" c="Person" a="surname" />
 		<indexElement pos="2" p="LiteratureCitation" c="LiteratureCitation" a="pubYear" />
 		<indexElement pos="3" p="LiteratureCitation" c="LiteratureCitation" a="title" />
-		<indexElement pos="4" p="ConferenceProceedingsCitationLU" c="ViewTable" a="vpdmfLabel" />
+		<indexElement pos="4" p="ConferenceProceedingsCitation" c="ConferenceProceedingsCitation" a="name" />
 		<indexElement pos="5" p="LiteratureCitation" c="LiteratureCitation" a="pages" />
 	</indexElements>
 </view>
