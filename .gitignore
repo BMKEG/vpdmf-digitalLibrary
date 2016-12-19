@@ -1,3 +1,6 @@
+*.mdr
+*.bak
+*.mdzip
 .DS_Store
 .history
 target
